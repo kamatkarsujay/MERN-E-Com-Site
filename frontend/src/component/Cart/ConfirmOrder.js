@@ -92,7 +92,7 @@ const ConfirmOrder = ({ history }) => {
                 <span>₹{shippingCharges}</span>
               </div>
               <div>
-                <p>GST:</p>
+                <p>GST(18%):</p>
                 <span>₹{tax}</span>
               </div>
             </div>
